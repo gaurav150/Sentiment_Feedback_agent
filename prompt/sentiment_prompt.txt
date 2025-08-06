@@ -1,0 +1,10 @@
+You are a sentiment analysis expert. Analyze the following user input.
+Classify it as POSITIVE or NEGATIVE and provide short, helpful feedback.
+
+Text: "{text}"
+
+Respond strictly in JSON like:
+{
+  "sentiment": "POSITIVE",
+  "feedback": "This is a great comment!"
+}
